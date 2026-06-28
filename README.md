@@ -1,24 +1,238 @@
-# 💫 About Me:
-I’m currently working on: > Full-stack web applications integrated with Machine Learning models.<br><br>I’m looking to collaborate on: > Open-source projects involving MERN stack or AI-driven automation tools.<br><br>I’m looking for help with: > Deploying large-scale ML models and mastering Cloud Architecture (AWS/Azure).<br><br>I’m currently learning: > Advanced Deep Learning techniques and optimizing Next.js performance.<br><br>Ask me about: > React, Node.js, Python, and how to bridge the gap between Data Science and Web Dev.<br><br>Fun fact: > I spend more time debugging my code than I do sleeping—and I actually enjoy it!
+<h1 align="center">Hi 👋, I'm Shivam Machhi</h1>
 
+<h3 align="center">
+Aspiring Software Engineer | Full Stack Developer | AI/ML Enthusiast | Cloud Learner
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivam-machhi-202a44386?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivambmachhi@gmail.com ) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ShivamMachhi24&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ShivamMachhi24&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ShivamMachhi24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShivamMachhi24&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;AI%2FML+Enthusiast;DSA+Learner;Building+Projects+That+Solve+Real+Problems" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ShivamMachhi24&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+🎓 B.Tech Computer Science Engineering Student at **DEPSTAR, CHARUSAT**
+
+💻 Passionate about Full Stack Development, AI/ML and System Design.
+
+🌱 Currently Learning
+
+- Cloud Computing ☁️
+- Advanced React
+- Node.js
+- Machine Learning
+- Data Structures & Algorithms
+
+🚀 I enjoy building real-world software that solves practical problems.
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🔐 AssetGuard
+
+**AI Powered Digital Asset Protection System**
+
+✨ Features
+
+- Perceptual Hashing (pHash)
+- DCT Hashing
+- Hamming Distance
+- AI Image Similarity Detection
+- React + Node.js + MongoDB
+
+---
+
+## 📰 AI Based News Credibility Evaluation
+
+Machine Learning based Fake News Detection System.
+
+Features
+
+- TF-IDF
+- Logistic Regression
+- BERT
+- NLP
+- Confidence Score
+- URL Analysis
+
+---
+
+## 🚚 FleetFlow
+
+Fleet Management System
+
+Features
+
+- Vehicle Management
+- Driver Management
+- Logistics Planning
+- System Design
+- Backend Architecture
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShivamMachhi24&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMachhi24&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ShivamMachhi24&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShivamMachhi24&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamMachhi24&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 💻 LeetCode
+
+<p align="center">
+
+<a href="https://leetcode.com/u/ShivamMachhi12/">
+<img src="https://leetcard.jacoblin.cool/ShivamMachhi12?theme=dark&font=Nunito"/>
+</a>
+
+</p>
+
+---
+
+# 🎖 Certifications
+
+You can view all my verified certifications here:
+
+🏅 https://www.credly.com/users/shivam-machhi.c4d44838
+
+---
+
+# 🌱 Currently Learning
+
+- Cloud Computing
+- AWS
+- Docker
+- Kubernetes
+- System Design
+- DSA
+- AI Engineering
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="https://github.com/ShivamMachhi24">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shivam-machhi">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/ShivamMachhi12/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.credly.com/users/shivam-machhi.c4d44838">
+<img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=ShivamMachhi24&label=Profile+Views&color=blue&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> "Code. Learn. Build. Improve. Repeat."
+
+---
+
+<p align="center">
+
+⭐ If you like my projects, consider giving them a star!
+
+</p>
