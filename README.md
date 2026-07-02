@@ -1,68 +1,156 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Shivam Machhi" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=140&section=header"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivam-machhi"><img src="https://img.shields.io/badge/LinkedIn-0B0E14?style=flat-square&logo=linkedin&logoColor=F5A623"/></a>
-  <a href="https://github.com/ShivamMachhi24"><img src="https://img.shields.io/badge/GitHub-0B0E14?style=flat-square&logo=github&logoColor=F5A623"/></a>
-  <a href="https://leetcode.com/u/ShivamMachhi12/"><img src="https://img.shields.io/badge/LeetCode-0B0E14?style=flat-square&logo=leetcode&logoColor=F5A623"/></a>
-  <a href="https://www.credly.com/users/shivam-machhi.c4d44838"><img src="https://img.shields.io/badge/Credly-0B0E14?style=flat-square&logo=credly&logoColor=F5A623"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=760&lines=Shivam+Machhi;Full+Stack+Developer;AI%2FML+Enthusiast;Computer+Science+Engineering+Student"/>
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech_CSE-DEPSTAR%2C_CHARUSAT-4C1D95?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Based_in-India-7C3AED?style=flat-square"/>
+</p>
 
-### ▸ about
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivam-machhi"><img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ShivamMachhi24"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.credly.com/users/shivam-machhi.c4d44838"><img src="https://img.shields.io/badge/Credly-Certifications-7C3AED?style=for-the-badge&logo=credly&logoColor=white"/></a>
+</p>
 
-I build systems that make sense of unverified or noisy data — flagging altered image copies, telling real news apart from fabricated news, and routing fleets through real-world constraints. Full-stack when the problem needs a product to sit around it. ML when it needs a model underneath.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShivamMachhi24&color=7C3AED&style=flat-square&label=Profile+Views"/>
+  <img src="https://img.shields.io/github/followers/ShivamMachhi24?style=flat-square&color=A78BFA&label=Followers"/>
+</p>
 
-Studying Computer Science Engineering at DEPSTAR, CHARUSAT. Open to internship and full-time software engineering roles.
+---
 
-<br/>
+## About
 
-### ▸ what i build
+**I'm an aspiring Software Engineer and AI/ML enthusiast** with a foundation in full-stack development and applied machine learning. Currently pursuing a B.Tech in Computer Science Engineering at **DEPSTAR, CHARUSAT**.
 
-**AssetGuard**
-Detects unauthorized copies of an image by comparing perceptual and DCT hashes instead of exact-match comparison, so edited or recompressed duplicates still get flagged.
-`react` `node.js` `mongodb` `phash` `dct-hash`
-→ `[ add repo link ]`
+My project work spans systems that make sense of unverified or noisy data — flagging altered image copies, classifying real news from fabricated news, and routing logistics through real-world constraints. Full-stack when the problem needs a product around it, ML when it needs a model underneath.
 
-**News Credibility Scorer**
-Classifies articles as likely credible or fabricated — TF-IDF and logistic regression as a fast baseline, BERT for the harder cases, plus a source/URL trust check.
-`python` `bert` `tf-idf` `nlp`
-→ `[ add repo link ]`
+**Open to:** Software Engineering Internships · Full-Time SDE Roles · Open Source Collaboration
 
-**FleetFlow**
-Manages vehicles, drivers, and route planning for a logistics operation, built around a backend architecture meant to replace a spreadsheet-based workflow.
-`system-design` `backend-architecture`
-→ `[ add repo link ]`
+---
 
-<br/>
+## Tech Stack
 
-### ▸ stack
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark"/></p>
 
-| | |
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark"/></p>
+
+**Backend & Databases**
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql&theme=dark"/></p>
+
+**Tools & Platforms**
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/></p>
+
+---
+
+## Featured Projects
+
+**AssetGuard — AI-Powered Digital Asset Protection System**
+> Detects unauthorized copies of an image by comparing perceptual and DCT hashes instead of exact-match comparison, so edited or recompressed duplicates still get flagged.
+
+| Attribute | Detail |
 |---|---|
-| `languages` | Java · Python · JavaScript |
-| `frontend` | React · Tailwind CSS · HTML · CSS |
-| `backend` | Node.js · Express · Flask |
-| `data` | MongoDB · MySQL |
-| `tools` | Git · GitHub · VS Code |
+| **Stack** | React · Node.js · MongoDB · Perceptual Hashing · DCT Hashing |
+| **Detection method** | Hamming distance similarity scoring |
+| **Scale / Accuracy** | `[ add real numbers if measured ]` |
+| **Repository** | `[ add repo link ]` |
 
-<br/>
+**News Credibility Scorer — AI-Based Fake News Detection**
+> Classifies news articles as likely credible or fabricated, combining classical NLP with a transformer model for harder cases.
 
-### ▸ numbers
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python · TF-IDF · Logistic Regression · BERT · NLP |
+| **Extra signal** | Source / URL trust analysis |
+| **Scale / Accuracy** | `[ add real numbers if measured ]` |
+| **Repository** | `[ add repo link ]` |
+
+**FleetFlow — Fleet Management System**
+> Manages vehicles, drivers, and route planning for a logistics operation, built around a backend architecture meant to replace a spreadsheet-based workflow.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | System Design · Backend Architecture |
+| **Core modules** | Vehicle management · Driver management · Logistics planning |
+| **Scale** | `[ add real numbers if measured ]` |
+| **Repository** | `[ add repo link ]` |
+
+---
+
+## Experience
+
+> `[ Add a role here if you have an internship, trainee position, or freelance work — same block format as below. Delete this section if not yet applicable. ]`
+
+**`[ Role ]` — `[ Company ]`**
+`[ Start – End ]`
+
+`[ One or two lines on what you actually did. ]`
+
+`[ tech ]` `[ tech ]` `[ tech ]`
+
+---
+
+## Achievements
+
+| Recognition | Details |
+|---|---|
+| LeetCode | `[ add problems-solved count if you want to include it ]` |
+| `[ Hackathon / competition ]` | `[ result ]` |
+| `[ Academic recognition ]` | `[ CGPA / rank, if you want to share it ]` |
+
+---
+
+## Certifications
+
+All verified certifications are on my Credly profile:
+🔗 **[View Certifications](https://www.credly.com/users/shivam-machhi.c4d44838)**
+
+`[ Once you confirm exact certification titles, I can turn each into a shields.io badge grouped by issuer — same as the AWS / Oracle / NPTEL rows in the reference profile. ]`
+
+---
+
+## Coding Profiles
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShivamMachhi24&show_icons=true&hide_border=true&bg_color=0B0E14&title_color=F5A623&text_color=F2EFEA&icon_color=4FD1C5"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMachhi24&layout=compact&hide_border=true&bg_color=0B0E14&title_color=F5A623&text_color=F2EFEA"/>
+<a href="https://leetcode.com/u/ShivamMachhi12/"><img src="https://img.shields.io/badge/LeetCode-Profile-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+</p>
+
+`[ Add GeeksforGeeks / HackerRank / CodeChef badges here if you use those platforms too. ]`
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShivamMachhi24&show_icons=true&hide_border=true&bg_color=1e1b4b&title_color=A78BFA&text_color=EDE9FE&icon_color=7C3AED"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMachhi24&layout=compact&hide_border=true&bg_color=1e1b4b&title_color=A78BFA&text_color=EDE9FE"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=ShivamMachhi24&hide_border=true&background=0B0E14&stroke=0B0E14&ring=F5A623&fire=F5A623&currStreakNum=F2EFEA&sideNums=F2EFEA&currStreakLabel=4FD1C5&sideLabels=8B8F98&dates=8B8F98"/>
+<img src="https://streak-stats.demolab.com?user=ShivamMachhi24&hide_border=true&background=1e1b4b&stroke=1e1b4b&ring=7C3AED&fire=A78BFA&currStreakNum=EDE9FE&sideNums=EDE9FE&currStreakLabel=A78BFA&sideLabels=8B85B0&dates=8B85B0"/>
 </p>
 
+---
+
+## GitHub Trophies
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamMachhi24&hide_border=true&bg_color=0B0E14&color=F5A623&line=F5A623&point=4FD1C5&title_color=F5A623&text_color=F2EFEA"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ShivamMachhi24&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4"/>
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamMachhi24&hide_border=true&bg_color=1e1b4b&color=A78BFA&line=7C3AED&point=EDE9FE&title_color=A78BFA&text_color=EDE9FE"/>
 </p>
 
 <p align="center">
@@ -73,26 +161,42 @@ Manages vehicles, drivers, and route planning for a logistics operation, built a
 </picture>
 </p>
 
-<p align="center">
-<a href="https://leetcode.com/u/ShivamMachhi12/"><img src="https://leetcard.jacoblin.cool/ShivamMachhi12?theme=dark&font=JetBrains%20Mono&ext=heatmap"/></a>
-</p>
+---
 
-<br/>
+## Current Focus
 
-### ▸ certifications
+```text
+Learning:
+  - Cloud Computing & AWS
+  - System Design
+  - Advanced Data Structures & Algorithms
 
-Verified badges live on [Credly](https://www.credly.com/users/shivam-machhi.c4d44838).
+Building:
+  - AI-assisted verification and classification tools
+  - Full-stack products wrapped around ML models
 
-<br/>
+Exploring:
+  - Applied NLP and transformer-based systems
 
-### ▸ currently
-
-`cloud computing` `aws` `docker` `kubernetes` `system design` `advanced dsa`
-
-<br/>
+Open To:
+  - Software Engineering Internships
+  - Full-Time SDE Roles
+  - Open Source Collaboration
+```
 
 ---
 
+## Connect
+
 <p align="center">
-<sub>shivam machhi — building things that verify, classify, and route.</sub>
+<a href="https://github.com/ShivamMachhi24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shivam-machhi"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/ShivamMachhi12/"><img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.credly.com/users/shivam-machhi.c4d44838"><img src="https://img.shields.io/badge/Credly-A78BFA?style=for-the-badge&logo=credly&logoColor=white"/></a>
+</p>
+
+<p align="center"><i>Building things that verify, classify, and route.</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=100&section=footer"/>
 </p>
