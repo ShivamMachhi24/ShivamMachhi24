@@ -59,7 +59,6 @@ My project work spans systems that make sense of unverified or noisy data — fl
 |---|---|
 | **Stack** | React · Node.js · MongoDB · Perceptual Hashing · DCT Hashing |
 | **Detection method** | Hamming distance similarity scoring |
-| **Scale / Accuracy** | `[ add real numbers if measured ]` |
 | **Repository** | `[ add repo link ]` |
 
 **News Credibility Scorer — AI-Based Fake News Detection**
@@ -69,7 +68,6 @@ My project work spans systems that make sense of unverified or noisy data — fl
 |---|---|
 | **Stack** | Python · TF-IDF · Logistic Regression · BERT · NLP |
 | **Extra signal** | Source / URL trust analysis |
-| **Scale / Accuracy** | `[ add real numbers if measured ]` |
 | **Repository** | `[ add repo link ]` |
 
 **FleetFlow — Fleet Management System**
@@ -79,31 +77,18 @@ My project work spans systems that make sense of unverified or noisy data — fl
 |---|---|
 | **Stack** | System Design · Backend Architecture |
 | **Core modules** | Vehicle management · Driver management · Logistics planning |
-| **Scale** | `[ add real numbers if measured ]` |
 | **Repository** | `[ add repo link ]` |
 
 ---
 
 ## Experience
 
-> `[ Add a role here if you have an internship, trainee position, or freelance work — same block format as below. Delete this section if not yet applicable. ]`
+**Software Development Intern — Dhavat Infotech Private Limited**
+`May 2026 – July 2026`
 
-**`[ Role ]` — `[ Company ]`**
-`[ Start – End ]`
+Worked on a web-based creative poster design tool built with ASP.NET MVC. Designed and implemented workspace management, template editing, layer management, and poster export functionality, and integrated SQL Server for data management following MVC architecture.
 
-`[ One or two lines on what you actually did. ]`
-
-`[ tech ]` `[ tech ]` `[ tech ]`
-
----
-
-## Achievements
-
-| Recognition | Details |
-|---|---|
-| LeetCode | `[ add problems-solved count if you want to include it ]` |
-| `[ Hackathon / competition ]` | `[ result ]` |
-| `[ Academic recognition ]` | `[ CGPA / rank, if you want to share it ]` |
+`ASP.NET MVC` `C#` `SQL Server` `HTML` `CSS` `JavaScript` `jQuery` `Bootstrap` `Entity Framework` `Visual Studio 2022`
 
 ---
 
@@ -129,13 +114,15 @@ All verified certifications are on my Credly profile:
 ## GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShivamMachhi24&show_icons=true&hide_border=true&bg_color=1e1b4b&title_color=A78BFA&text_color=EDE9FE&icon_color=7C3AED"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMachhi24&layout=compact&hide_border=true&bg_color=1e1b4b&title_color=A78BFA&text_color=EDE9FE"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShivamMachhi24&show_icons=true&hide_border=true&bg_color=1e1b4b&title_color=A78BFA&text_color=EDE9FE&icon_color=7C3AED&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMachhi24&layout=compact&hide_border=true&bg_color=1e1b4b&title_color=A78BFA&text_color=EDE9FE&cache_seconds=86400"/>
 </p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ShivamMachhi24&hide_border=true&background=1e1b4b&stroke=1e1b4b&ring=7C3AED&fire=A78BFA&currStreakNum=EDE9FE&sideNums=EDE9FE&currStreakLabel=A78BFA&sideLabels=8B85B0&dates=8B85B0"/>
 </p>
+
+> If these cards show a broken image instead of your stats, it's not your README — the free public `github-readme-stats.vercel.app` service is known to be unreliable under traffic spikes (rate limits, occasional outright pauses). It usually recovers within a few hours on its own. If it stays broken for you, the permanent fix is deploying your own free instance on Vercel (fork the repo → "Deploy" button in its README) and swapping the URL — happy to walk you through that if it becomes a recurring problem.
 
 ---
 
