@@ -17,11 +17,6 @@
   <a href="https://www.credly.com/users/shivam-machhi.c4d44838"><img src="https://img.shields.io/badge/Credly-Certifications-7C3AED?style=for-the-badge&logo=credly&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShivamMachhi24&color=7C3AED&style=flat-square&label=Profile+Views"/>
-  <img src="https://img.shields.io/github/followers/ShivamMachhi24?style=flat-square&color=A78BFA&label=Followers"/>
-</p>
-
 ---
 
 ## About
