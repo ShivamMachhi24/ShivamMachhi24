@@ -59,7 +59,7 @@ My project work spans systems that make sense of unverified or noisy data — fl
 |---|---|
 | **Stack** | React · Node.js · MongoDB · Perceptual Hashing · DCT Hashing |
 | **Detection method** | Hamming distance similarity scoring |
-| **Repository** | `[ add repo link ]` |
+| **Repository** | `[ https://github.com/ShivamMachhi24/assetguard ]` |
 
 **News Credibility Scorer — AI-Based Fake News Detection**
 > Classifies news articles as likely credible or fabricated, combining classical NLP with a transformer model for harder cases.
@@ -68,16 +68,7 @@ My project work spans systems that make sense of unverified or noisy data — fl
 |---|---|
 | **Stack** | Python · TF-IDF · Logistic Regression · BERT · NLP |
 | **Extra signal** | Source / URL trust analysis |
-| **Repository** | `[ add repo link ]` |
-
-**FleetFlow — Fleet Management System**
-> Manages vehicles, drivers, and route planning for a logistics operation, built around a backend architecture meant to replace a spreadsheet-based workflow.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | System Design · Backend Architecture |
-| **Core modules** | Vehicle management · Driver management · Logistics planning |
-| **Repository** | `[ add repo link ]` |
+| **Repository** | `[ https://github.com/ShivamMachhi24/News-Detection--main ]` |
 
 ---
 
