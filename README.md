@@ -17,6 +17,11 @@
   <a href="https://www.credly.com/users/shivam-machhi.c4d44838"><img src="https://img.shields.io/badge/Credly-Certifications-7C3AED?style=for-the-badge&logo=credly&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShivamMachhi24&color=7C3AED&style=flat-square&label=Profile+Views"/>
+  <img src="https://img.shields.io/github/followers/ShivamMachhi24?style=flat-square&color=A78BFA&label=Followers"/>
+</p>
+
 ---
 
 ## About
@@ -54,16 +59,26 @@ My project work spans systems that make sense of unverified or noisy data — fl
 |---|---|
 | **Stack** | React · Node.js · MongoDB · Perceptual Hashing · DCT Hashing |
 | **Detection method** | Hamming distance similarity scoring |
-| **Repository** | `[ https://github.com/ShivamMachhi24/assetguard ]` |
+| **Repository** | [github.com/ShivamMachhi24/assetguard](https://github.com/ShivamMachhi24/assetguard) |
+| **Live Demo** | [assetguard-shivam.onrender.com](https://assetguard-shivam.onrender.com) |
 
 **News Credibility Scorer — AI-Based Fake News Detection**
-> Classifies news articles as likely credible or fabricated, combining classical NLP with a transformer model for harder cases.
+> Classifies news articles as likely real or fake using a Logistic Regression model trained on 44,000+ articles, with a confidence score and reliability tier attached to each prediction.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | Python · TF-IDF · Logistic Regression · BERT · NLP |
-| **Extra signal** | Source / URL trust analysis |
-| **Repository** | `[ https://github.com/ShivamMachhi24/News-Detection--main ]` |
+| **Stack** | Python · Flask · TF-IDF · Logistic Regression · scikit-learn |
+| **Extra signal** | Confidence scoring with reliability tiers |
+| **Repository** | [github.com/ShivamMachhi24/News-Detection--main](https://github.com/ShivamMachhi24/News-Detection--main) |
+
+**FleetFlow — Fleet Management System**
+> Manages vehicles, drivers, and route planning for a logistics operation, built around a backend architecture meant to replace a spreadsheet-based workflow.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | System Design · Backend Architecture |
+| **Core modules** | Vehicle management · Driver management · Logistics planning |
+| **Repository** | `[ add repo link ]` |
 
 ---
 
@@ -100,15 +115,15 @@ All verified certifications are on my Credly profile:
 ## GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShivamMachhi24&show_icons=true&hide_border=true&bg_color=1e1b4b&title_color=A78BFA&text_color=EDE9FE&icon_color=7C3AED&cache_seconds=86400"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMachhi24&layout=compact&hide_border=true&bg_color=1e1b4b&title_color=A78BFA&text_color=EDE9FE&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=ShivamMachhi24&show_icons=true&hide_border=true&bg_color=1e1b4b&title_color=A78BFA&text_color=EDE9FE&icon_color=7C3AED&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ShivamMachhi24&layout=compact&hide_border=true&bg_color=1e1b4b&title_color=A78BFA&text_color=EDE9FE&cache_seconds=86400"/>
 </p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ShivamMachhi24&hide_border=true&background=1e1b4b&stroke=1e1b4b&ring=7C3AED&fire=A78BFA&currStreakNum=EDE9FE&sideNums=EDE9FE&currStreakLabel=A78BFA&sideLabels=8B85B0&dates=8B85B0"/>
 </p>
 
-> If these cards show a broken image instead of your stats, it's not your README — the free public `github-readme-stats.vercel.app` service is known to be unreliable under traffic spikes (rate limits, occasional outright pauses). It usually recovers within a few hours on its own. If it stays broken for you, the permanent fix is deploying your own free instance on Vercel (fork the repo → "Deploy" button in its README) and swapping the URL — happy to walk you through that if it becomes a recurring problem.
+> These now use [`github-readme-stats-fast`](https://github.com/Pranesh-2005/github-readme-stats-fast), a maintained drop-in fork of the original card generator — same parameters, its own separate Vercel instance. The official public instance (`github-readme-stats.vercel.app`) has had its deployment paused by its maintainer as of this year, which was the actual cause of the broken images. If this fork ever goes down too, the permanent fix is deploying your own free instance (its README has a one-click "Deploy to Vercel" button).
 
 ---
 
@@ -173,3 +188,4 @@ Open To:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=100&section=footer"/>
 </p>
+
