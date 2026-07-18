@@ -17,11 +17,6 @@
   <a href="https://www.credly.com/users/shivam-machhi.c4d44838"><img src="https://img.shields.io/badge/Credly-Certifications-7C3AED?style=for-the-badge&logo=credly&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShivamMachhi24&color=7C3AED&style=flat-square&label=Profile+Views"/>
-  <img src="https://img.shields.io/github/followers/ShivamMachhi24?style=flat-square&color=A78BFA&label=Followers"/>
-</p>
-
 ---
 
 ## About
@@ -78,7 +73,6 @@ My project work spans systems that make sense of unverified or noisy data — fl
 |---|---|
 | **Stack** | System Design · Backend Architecture |
 | **Core modules** | Vehicle management · Driver management · Logistics planning |
-| **Repository** | `[ add repo link ]` |
 
 ---
 
@@ -98,8 +92,6 @@ Worked on a web-based creative poster design tool built with ASP.NET MVC. Design
 All verified certifications are on my Credly profile:
 🔗 **[View Certifications](https://www.credly.com/users/shivam-machhi.c4d44838)**
 
-`[ Once you confirm exact certification titles, I can turn each into a shields.io badge grouped by issuer — same as the AWS / Oracle / NPTEL rows in the reference profile. ]`
-
 ---
 
 ## Coding Profiles
@@ -107,8 +99,6 @@ All verified certifications are on my Credly profile:
 <p align="center">
 <a href="https://leetcode.com/u/ShivamMachhi12/"><img src="https://img.shields.io/badge/LeetCode-Profile-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
-
-`[ Add GeeksforGeeks / HackerRank / CodeChef badges here if you use those platforms too. ]`
 
 ---
 
@@ -122,8 +112,6 @@ All verified certifications are on my Credly profile:
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ShivamMachhi24&hide_border=true&background=1e1b4b&stroke=1e1b4b&ring=7C3AED&fire=A78BFA&currStreakNum=EDE9FE&sideNums=EDE9FE&currStreakLabel=A78BFA&sideLabels=8B85B0&dates=8B85B0"/>
 </p>
-
-> These now use [`github-readme-stats-fast`](https://github.com/Pranesh-2005/github-readme-stats-fast), a maintained drop-in fork of the original card generator — same parameters, its own separate Vercel instance. The official public instance (`github-readme-stats.vercel.app`) has had its deployment paused by its maintainer as of this year, which was the actual cause of the broken images. If this fork ever goes down too, the permanent fix is deploying your own free instance (its README has a one-click "Deploy to Vercel" button).
 
 ---
 
