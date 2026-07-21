@@ -66,14 +66,6 @@ My project work spans systems that make sense of unverified or noisy data — fl
 | **Extra signal** | Confidence scoring with reliability tiers |
 | **Repository** | [github.com/ShivamMachhi24/News-Detection--main](https://github.com/ShivamMachhi24/News-Detection--main) |
 
-**FleetFlow — Fleet Management System**
-> Manages vehicles, drivers, and route planning for a logistics operation, built around a backend architecture meant to replace a spreadsheet-based workflow.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | System Design · Backend Architecture |
-| **Core modules** | Vehicle management · Driver management · Logistics planning |
-
 ---
 
 ## Experience
