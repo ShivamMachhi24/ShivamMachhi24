@@ -55,7 +55,6 @@ My project work spans systems that make sense of unverified or noisy data — fl
 | **Stack** | React · Node.js · MongoDB · Perceptual Hashing · DCT Hashing |
 | **Detection method** | Hamming distance similarity scoring |
 | **Repository** | [github.com/ShivamMachhi24/assetguard](https://github.com/ShivamMachhi24/assetguard) |
-| **Live Demo** | [assetguard-shivam.onrender.com](https://assetguard-shivam.onrender.com) |
 
 **News Credibility Scorer — AI-Based Fake News Detection**
 > Classifies news articles as likely real or fake using a Logistic Regression model trained on 44,000+ articles, with a confidence score and reliability tier attached to each prediction.
