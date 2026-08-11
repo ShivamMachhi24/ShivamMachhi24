@@ -19,7 +19,7 @@
 
 ---
 
-## About
+## ABOUT
 
 **I'm an aspiring Software Engineer and AI/ML enthusiast** with a foundation in full-stack development and applied machine learning. Currently pursuing a B.Tech in Computer Science Engineering at **DEPSTAR, CHARUSAT**.
 
@@ -29,7 +29,7 @@ My project work spans systems that make sense of unverified or noisy data — fl
 
 ---
 
-## Tech Stack
+## TECH STACK
 
 **Languages**
 <p><img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark"/></p>
